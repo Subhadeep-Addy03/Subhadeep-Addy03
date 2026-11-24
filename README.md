@@ -23,8 +23,6 @@ Email Id   :   addysubhadeep@gmail.com
 
 LinkedIn  :   https://www.linkedin.com/in/subhadeepaddy/
 
-Building practical web applications with modern technologies.
-
 ## 🚀 What I Do
 
 * 💻 Build **full-stack web applications** using MERN & PERN
